@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-size: 45px;
+  }
+  h2 {
+    background-color: burlywood;
+    border-radius: 10px;
+    box-shadow: -3px 2px 2px -3px gray;
+    margin: 3rem;
+    padding: 3rem;
+  }
+  p {
+    background-color: aqua;
+    padding: 1rem;
+    margin: 4rem;
+  }
